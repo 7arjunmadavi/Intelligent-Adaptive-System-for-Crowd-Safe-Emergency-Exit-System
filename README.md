@@ -1,0 +1,2 @@
+# Intelligent-Adaptive-System-for-Crowd-Safe-Emergency-Exit-System
+An intelligent emergency evacuation system that uses YOLO-based crowd detection, fire sensors, and shortest-path algorithms to identify safer evacuation routes. Integrates ESP32, Python, WS2812B NeoPixel LED strips, and voice guidance to provide real-time visual and audio directions, helping reduce congestion and improve crowd safety .
