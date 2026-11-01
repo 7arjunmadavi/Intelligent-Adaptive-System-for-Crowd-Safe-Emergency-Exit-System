@@ -1,0 +1,6 @@
+ultralytics
+YOLO
+cv2
+requests
+time
+pyttsx3
